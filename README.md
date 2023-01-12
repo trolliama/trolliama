@@ -13,6 +13,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is SOLID and Why You Should Care About It](https://medium.com/@caiow2001/what-is-solid-and-why-you-should-care-about-it-7e82e7e059eb?source=rss-97fab723f09c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
