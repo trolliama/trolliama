@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **caiow2001+dev@gmail.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
